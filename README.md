@@ -1,2 +1,2 @@
-# Machine-Learning-Practica-1
-Predicción de contratación de producto bancario
+# UC3M-ML-P1-03
+Practica 1 de Aprendizaje Automático
